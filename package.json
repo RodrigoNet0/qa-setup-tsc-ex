@@ -1,0 +1,27 @@
+{
+  "name": "@rodrigodev/qa-setup",
+  "version": "1.0.0",
+  "description": "Configuração rápida de ferramentas de QA (Jest, Cypress, RTL) para projetos front-end",
+  "main": "dist/index.js",
+  "bin": {
+    "qa-setup": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "qa",
+    "jest",
+    "cypress",
+    "react-testing-library",
+    "typescript"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.17.47",
+    "typescript": "^5.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^14.3.3"
+  }
+}
