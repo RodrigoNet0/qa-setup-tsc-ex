@@ -1,4 +1,4 @@
-# @rodrigodev/qa-setup
+# @rodrigodev/qa-setup - REPOSITÓRIO TESTE
 
 Setup rápido de ferramentas de QA: **Jest**, **Cypress**, **React Testing Library** com TypeScript.
 
